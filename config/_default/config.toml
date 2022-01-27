@@ -2,7 +2,7 @@ baseURL = "https://sinhvientmu.com"
 title = "Noticias populares de hoy"
 theme = "zzo"
 
-defaultContentLanguage = "es"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 disableLanguages = ['id']
